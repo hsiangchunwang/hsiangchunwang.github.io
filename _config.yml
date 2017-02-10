@@ -19,10 +19,11 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 
 #sidebar links
 email: wangchun@hotmail.com.tw
-phone: 0978206975(TW)/13051327860(CN)
+phone: 0978206975(TW)/
+       13051327860(CN)
 website: blog.webjeda.com #do not add http://
-linkedin: Hsiangchun Wang
-github: sharu725
+linkedin: Hsiang-Chun Wang
+github: hsiangchunwang
 facebook: 'Hsiang-Chun Wang'
 
 #Update all the sections by editing the files inside _includes folder.
