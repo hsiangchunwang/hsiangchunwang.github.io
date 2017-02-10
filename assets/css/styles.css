@@ -243,14 +243,7 @@ h4.skillcontent {
   margin-top: 0;
   margin-bottom: 12px;
 }
-.skillset .level-bar {
-  height: 12px;
-  background: #f5f5f5;
-}
-.skillset .level-bar-inner {
-  height: 12px;
-  background: #7bc2d3;
-}
+
 .footer {
   padding: 30px;
   padding-top: 60px;
@@ -290,13 +283,7 @@ h4.skillcontent {
     width: 30%;
     margin-bottom: 0;
   }
-  .skillset .level-bar {
-    display: inline-block;
-    width: 70%;
-    float: left;
-    position: relative;
-    top: 1px;
-  }
+
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
