@@ -228,7 +228,7 @@ p {
   margin-bottom: 15px;
 }
 .skillset .item {
-  margin-bottom: 15px;
+  margin-bottom: 0;
   overflow: hidden;
 }
 
@@ -240,7 +240,7 @@ p {
   font-weight: 500;
 }
 h4.skillcontent {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 500;
 }
 
