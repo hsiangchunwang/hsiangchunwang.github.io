@@ -224,6 +224,12 @@ p {
 .main-wrapper .projects-section .intro {
   margin-bottom: 20px;
 }
+.main-wrapper .projects-section .intro .time {
+  position: absolute;
+  right: 0;
+  top: 0;
+  color: #97AAC3;
+}
 
 .skillset .item {
   margin-bottom: 0;
