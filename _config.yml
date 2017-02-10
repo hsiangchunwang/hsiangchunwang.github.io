@@ -1,7 +1,7 @@
 
 title: Hsiangchun Wang CV
 url: 'http://webjeda.com'
-baseurl: '/hsiangchunwangcv' #change it according to your repository name
+baseurl: '/hsiangchunwang.github.io' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
