@@ -222,11 +222,9 @@ p {
   margin-bottom: 5px;
 }
 .main-wrapper .projects-section .intro {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
-.main-wrapper .projects-section .item {
-  margin-bottom: 15px;
-}
+
 .skillset .item {
   margin-bottom: 0;
   overflow: hidden;
