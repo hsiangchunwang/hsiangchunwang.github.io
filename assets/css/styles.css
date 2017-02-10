@@ -112,6 +112,7 @@ p {
 .sidebar-wrapper .degree {
   font-size: 12px;
   font-weight: 500;
+  color: rgba(255, 255, 255, 0.6);
   margin-top: 0;
   margin-bottom: 5px;
 }
@@ -122,12 +123,10 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .education-container .meta {
-  color: rgba(255, 255, 255, 0.6);
   margin-bottom: 0px;
   margin-top: 0;
 }
 .sidebar-wrapper .education-container .time {
-  color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
   font-size: 12px;
   margin-bottom: 0px;
