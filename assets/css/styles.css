@@ -212,6 +212,12 @@ p {
   top: 0;
   color: #97AAC3;
 }
+.main-wrapper .conference-time {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  color: #97AAC3;
+}
 .main-wrapper .company {
   margin-bottom: 10px;
   color: #97AAC3;
