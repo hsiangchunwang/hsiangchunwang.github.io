@@ -205,9 +205,14 @@ p {
   margin-bottom: 0;
   font-weight: 500;
 }
+.main-wrapper .conference-upper-row {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 0;
+}
 .main-wrapper .conference {
   position: relative;
-  margin-top: 2px;
+  margin-top: 0;
   margin-bottom: 0;
 
   color: #97AAC3;
