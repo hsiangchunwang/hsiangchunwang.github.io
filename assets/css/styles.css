@@ -193,16 +193,11 @@ p {
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
 }
+
 .main-wrapper .upper-row {
   position: relative;
   overflow: hidden;
   margin-bottom: 2px;
-}
-.main-wrapper .conference-upper-row {
-  position: relative;
-  overflow: hidden;
-  margin-top: 10px;
-  margin-top: 10px;
 }
 .main-wrapper .job-title {
   color: #3F4650;
@@ -211,7 +206,6 @@ p {
   margin-bottom: 0;
   font-weight: 500;
 }
-
 .main-wrapper .time {
   position: absolute;
   right: 0;
@@ -219,18 +213,9 @@ p {
   color: #97AAC3;
 }
 .main-wrapper .company {
-  position: relative;
   margin-bottom: 10px;
   color: #97AAC3;
 }
-.main-wrapper .conference {
-  position: relative;
-  margin-top: 2px;
-  margin-bottom: 0;
-  color: #97AAC3;
-}
-
-
 
 .main-wrapper .project-title {
   font-size: 16px;
