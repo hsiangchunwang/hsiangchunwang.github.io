@@ -233,10 +233,12 @@ p {
 
 .skillset .item {
   margin-bottom: 0;
+  width: 600px;
 }
 
 .skillset .level-title {
   color: #3F4650;
+  width: 600px;
   font-size: 16px;
   margin-top: 0;
   margin-bottom: 2px;
@@ -244,6 +246,7 @@ p {
 }
 .skillcontent {
   font-size: 14px;
+  width: 600px;
   margin-top: 0;
   margin-bottom: 2px;
 }
