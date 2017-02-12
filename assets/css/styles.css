@@ -205,6 +205,12 @@ p {
   margin-bottom: 0;
   font-weight: 500;
 }
+.main-wrapper .conference {
+  position: relative;
+  margin-bottom: 0;
+  margin-top: 0;
+  color: #97AAC3;
+}
 .main-wrapper .time {
   position: absolute;
   right: 0;
@@ -217,12 +223,7 @@ p {
   color: #97AAC3;
 }
 
-.main-wrapper .conference {
-  position: relative;
-  margin-bottom: 0;
-  margin-top: 0;
-  color: #97AAC3;
-}
+
 
 .main-wrapper .project-title {
   font-size: 16px;
