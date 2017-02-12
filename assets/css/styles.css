@@ -212,6 +212,7 @@ p {
   color: #97AAC3;
 }
 .main-wrapper .company {
+  position: relative;
   margin-bottom: 10px;
   color: #97AAC3;
 }
