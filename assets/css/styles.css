@@ -243,7 +243,7 @@ p {
   margin-bottom: 2px;
   font-weight: 500;
 }
-.skillcontent {
+p.skillcontent {
   font-size: 14px;
 }
 
