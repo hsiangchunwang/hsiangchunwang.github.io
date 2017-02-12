@@ -196,6 +196,7 @@ p {
 .main-wrapper .upper-row {
   position: relative;
   overflow: hidden;
+  margin-top: 10px;
   margin-bottom: 10px;
 }
 .main-wrapper .job-title {
