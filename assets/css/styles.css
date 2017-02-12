@@ -216,6 +216,17 @@ p {
   margin-bottom: 10px;
   color: #97AAC3;
 }
+.main-wrapper .conferencetime {
+  position: absolute;
+  right: 0;
+  top: 0;
+  color: #97AAC3;
+}
+.main-wrapper .conference {
+  position: relative;
+  margin-bottom: 10px;
+  color: #97AAC3;
+}
 .main-wrapper .project-title {
   font-size: 16px;
   font-weight: 400;
