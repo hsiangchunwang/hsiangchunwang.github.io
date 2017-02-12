@@ -220,8 +220,10 @@ p {
 .main-wrapper .conference {
   position: relative;
   margin-bottom: 0;
+  margin-top: 0;
   color: #97AAC3;
 }
+
 .main-wrapper .project-title {
   font-size: 16px;
   font-weight: 400;
